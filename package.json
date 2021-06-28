@@ -1,0 +1,19 @@
+{
+  "name": "version-tests",
+  "version": "1.0.0",
+  "description": "repo just to mess with git tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csalgado3/version-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csalgado3/version-tests/issues"
+  },
+  "homepage": "https://github.com/csalgado3/version-tests#readme"
+}
